@@ -1,0 +1,28 @@
+{
+    "name": "landofcoder/module-marketplace-payment",
+    "description": "This extension allows your Magento store to split the PayPal order into an order for each item in the cart.",
+    "require": {
+    },
+    "keywords": [
+        "magento 2",
+        "magento extension",
+        "split order",
+        "magento quote",
+        "split quote",
+        "magento 2 split quote",
+        "magento 2 split order"
+    ],
+    "type": "magento2-module",
+    "license": [
+        "OSL-3.0"
+    ],
+    "version": "1.0.6",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Lofmp\\MarketplacePayment\\": ""
+        }
+    }
+}
