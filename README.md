@@ -38,7 +38,7 @@ php bin/magento cache:clean
 
 ## 3. Configuration
 
-1. Go to **STORES** > **Configuration** > **MAGESTAT** > **Split Order**.
+1. Go to **STORES** > **Configuration** > **Landofcoder** > **Split Order**.
 2. Select **Enabled** option to enable module.
 3. Change the options selecting the attribute to split the order just like you want.
 
