@@ -32,6 +32,17 @@
 				<model>Lofmp\MarketplacePayment\Model\PaypalExpress</model>
 				<group>offline</group>
 			</marketplace_paypal>
+            <marketplace_razorpay>
+				<active>1</active>
+				<title>Razorpay</title>
+				<order_status>processing</order_status>
+				<calculate_type>P</calculate_type>
+				<handling_fee>0</handling_fee>
+				<allowspecific>0</allowspecific>
+				<preselect>1</preselect>
+				<model>Lofmp\MarketplacePayment\Model\Razorpay</model>
+				<group>offline</group>
+			</marketplace_razorpay>
 		</payment>
 	</default>
 </config>
