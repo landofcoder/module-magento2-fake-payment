@@ -16,5 +16,8 @@
 		<method name="marketplace_paypal">
 			<allow_multiple_address>1</allow_multiple_address>
 		</method>
+        <method name="marketplace_razorpay">
+			<allow_multiple_address>1</allow_multiple_address>
+		</method>
 	</methods>
 </payment>
