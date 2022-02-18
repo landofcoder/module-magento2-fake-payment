@@ -24,8 +24,6 @@
         <sequence>
             <module name="Magento_Checkout"/>
             <module name="Lof_MarketPlace"/>
-            <module name="Lofmp_SplitOrderPaypal"/>
-            <module name="Lofmp_SplitOrderRazorpay"/>
             <module name="Magento_Paypal"/>
             <module name="Razorpay_Magento"/>
             <module name="Lofmp_SplitOrder"/>
